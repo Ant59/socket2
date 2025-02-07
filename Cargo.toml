@@ -1,6 +1,6 @@
 [package]
 name          = "socket2"
-version       = "0.6.0"
+version       = "0.5.99"
 publish       = false # In development.
 authors       = [
   "Alex Crichton <alex@alexcrichton.com>",
